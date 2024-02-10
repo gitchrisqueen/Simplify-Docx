@@ -61,7 +61,7 @@ setup(
     ],
     keywords=["sql", "csv"],
     install_requires=[
-        "lxml>=4.3.3,<5",
+        "lxml>=5",
         "more-itertools==7.0.0",
         "python-docx>=1.1.0",
         "six>=1.12.0,<2",
